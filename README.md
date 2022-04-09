@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeyn Schweyk</h1>
+<h1 align="center">Hi, I'm Zeyn Schweyk</h1>
 <h3 align="center">SBPianoBoys Classical Pianist/Composer, Dos Pueblos Engineering Academy Student, and Programmer</h3>
 
 - Check out my and my brother's website as [SBPianoBoys](www.sbpianoboys.com)
