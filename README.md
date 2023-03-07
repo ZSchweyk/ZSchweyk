@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zeyn Schweyk</h1>
-<h3 align="center">SBPianoBoys Classical Pianist/Composer, Programmer, and Class of '26 student at Johns Hopkins University & Peabody Institute of Music studying Mechanical Engineering</h3>
+<h3 align="center">SBPianoBoys Classical Pianist/Composer, Programmer, and Class of '26 student at Johns Hopkins University & Peabody Institute of Music majoring in Electrical Engineering and Computer Science, with minors in Entrepreneurship and Music</h3>
 
 - Check out my and my brother's website as [SBPianoBoys](www.sbpianoboys.com)
 
