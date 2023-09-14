@@ -3,7 +3,7 @@
 
 - Check out my and my brother's website as [ThePianoBoys](www.thepianoboys.com)
 
-- Check out my [Engineering/Software Portfolio](https://2022mechatronicszeynschweyk.weebly.com/projects.html), containing all my completed projects since my HS Freshman year, and monthly blog during my HS Senior Year in the DPEA
+- Check out my [personal website](www.zeyn.schweyk.com), containing all my completed projects since my HS Freshman year (still being updated!)
 
 - [YouTube](www.youtube.com/sbpianoboys)
 
