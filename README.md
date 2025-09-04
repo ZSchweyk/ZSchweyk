@@ -3,7 +3,7 @@
 
 - Check out my and my brother's website as [ThePianoBoys](www.thepianoboys.com)
 
-- Check out my [personal website](https://www.zeyn.schweyk.com), containing all my completed projects since my HS Freshman year (still being updated!)
+- Check out my [personal website](https://zeyn.schweyk.com), containing all my completed projects since my HS Freshman year (still being updated!)
 
 - [YouTube](www.youtube.com/sbpianoboys)
 
